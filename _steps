@@ -1,0 +1,10 @@
+Projeto base: https://github.com/cpintoval/me/blob/main/index.html
+Criar projeto - https://nuxt.com/docs/getting-started/installation
+Limpar o projeto
+mover o app.vue para pages/index.vue
+Criar componente ProfileInfo
+Criar Componente ButtonAction
+
+Falar sobre passagem de props
+
+
