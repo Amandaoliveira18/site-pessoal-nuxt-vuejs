@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Jaison Schmidt Website"
+      title: "Amanda Oliveira Website"
     }
   }
 })

@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body {
-    @apply bg-gray-100;
+    background: linear-gradient(to bottom, #b5ccd6, #4dd1e9);
+    height: 100vh; /* Ajuste conforme necessário */
+    width: 100%;
+    transition:  0.5s ease-in-out;
+}
+
+body:hover {
+    background: linear-gradient(to bottom, #bfd5e0, #48caf1);
+    height: 100vh; /* Ajuste conforme necessário */
+    width: 100%;
 }
