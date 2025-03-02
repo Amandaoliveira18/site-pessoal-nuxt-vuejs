@@ -11,7 +11,7 @@ body {
 }
 
 body:hover {
-    background: linear-gradient(to bottom, #bfd5e0, #48caf1);
+    background: linear-gradient(to bottom, #239fdd, #c4e0e9);
     height: 100vh; /* Ajuste conforme necessário */
     width: 100%;
 }
