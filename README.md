@@ -14,6 +14,7 @@ Tailwind CSS
 
 Spotify Embed API
 
+
 📂 Estrutura do Projeto
 
 📁 src
